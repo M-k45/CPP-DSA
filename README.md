@@ -1,9 +1,8 @@
-# Introduction to Programming
-Welcome to the ```IntrotoProgramming``` repository, with additional coding material of the Introduction to Programming course. 😄
+# Introduction to Programming: Python Walkthrough
+Welcome to the ```IntrotoProgramming``` repository, Python branch with additional coding material for the Artificial Intelligence course. 😄
 
 It contains the following:
-- ```rps.cpp``` : full program for the Rock, Paper, Scissors! game (*Language - C++*)
-- ```void.cpp``` : sample use of a function of type void (with no return value) [*Language - C++*]
-- ```arrays.cpp``` : sample use of one-dimensional array (*Language - C++*)
-- ```match.py```: use of match-case (*Language - Python*)
+- ```Python_Walkthrough.ipynb``` : a rundown of fundamental programming concepts in Python - done in a Notebook environment,
+- ```calc.py```: demonstrating use of Python functions to develop a simple calculator,
+- ```match.py```: use of match-case.
 #### Feel free to send any queries and contributions. Cheers!
